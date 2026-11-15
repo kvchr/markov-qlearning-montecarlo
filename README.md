@@ -2,7 +2,7 @@
 
 This project solves four short problems about systems that involve chance. Each problem has a small MATLAB script, and a report in Greek explains the method and the results step by step.
 
-It is Assignment 3 of the course *Neuro-fuzzy control and applications*, School of Electrical and Computer Engineering, National Technical University of Athens (NTUA), 2024-2025. Author: Konstantinos Vaios Chronis.
+It is Assignment 3 of the course *Neuro-fuzzy control and applications* (coursework, 2024-2025). Author: Konstantinos Vaios Chronis.
 
 ## The four problems in plain words
 
@@ -80,11 +80,11 @@ figures/  the plots shown in this README, made by running the code
 
 ## Sources and credits
 
-- **Assignment.** The four problems are from Assignment 3 of *Neuro-fuzzy control and applications* (School of Electrical and Computer Engineering, NTUA, 2024-2025). The problem statement belongs to the course and is not included here. This README only summarizes it.
+- **Assignment.** The four problems are from Assignment 3 of *Neuro-fuzzy control and applications* (coursework, 2024-2025). The problem statement belongs to the course and is not included here. This README only summarizes it.
 - **Parking problem.** Problem 2 is the parking example of D. P. Bertsekas (Example 1.3.3), as given in the assignment.
 - **Own work.** The MATLAB code and the report are the author's own work for this assignment.
 - **Tools.** [MATLAB](https://www.mathworks.com/products/matlab.html) and its Statistics and Machine Learning Toolbox.
-- The NTUA logo on the report's title page belongs to the National Technical University of Athens.
+- The university logo on the report's title page belongs to the university.
 
 ## License
 
